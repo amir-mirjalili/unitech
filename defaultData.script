@@ -1,0 +1,10 @@
+INSERT INTO `category` VALUES (1, 'category1', '23', 200, 3);
+INSERT INTO `category` VALUES (2, 'category2', '65', 200, 3);
+INSERT INTO `category` VALUES (3, 'category3', '30', 200, 3);
+INSERT INTO `category` VALUES (4, 'category4', '64', 200, 3);
+INSERT INTO `category` VALUES (5, 'category5', '80', 200, 3);
+INSERT INTO `category` VALUES (6, 'category6', '100', 200, 3);
+INSERT INTO `category` VALUES (7, 'category7', '90', 200, 3);
+INSERT INTO `category` VALUES (8, 'category8', '55', 200, 3);
+INSERT INTO `category` VALUES (9, 'category9', '30', 200, 3);
+INSERT INTO `category` VALUES (10, 'category10', '10', 200, 3);
